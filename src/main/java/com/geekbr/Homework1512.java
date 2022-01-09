@@ -52,4 +52,13 @@ public class Homework1512 {
         }
 
     }
+    public class Homework { //Методы из п2-п5 вызовите из метода мейн() и посмотрите корректно ли работают
+            public static void main (String [] args)   {
+                printThreeWords();
+                checkSumSing();
+                printColor();
+                compareNumbers();
+            }
+
+    }
 }
